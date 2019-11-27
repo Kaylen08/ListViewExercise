@@ -1,0 +1,9 @@
+C:\Xamarin\ListView\src\exercise2\final\FlagData\bin\Debug\netstandard2.0\FlagData.deps.json
+C:\Xamarin\ListView\src\exercise2\final\FlagData\bin\Debug\netstandard2.0\FlagData.dll
+C:\Xamarin\ListView\src\exercise2\final\FlagData\bin\Debug\netstandard2.0\FlagData.pdb
+C:\Xamarin\ListView\src\exercise2\final\FlagData\obj\Debug\netstandard2.0\FlagData.csprojAssemblyReference.cache
+C:\Xamarin\ListView\src\exercise2\final\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfoInputs.cache
+C:\Xamarin\ListView\src\exercise2\final\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfo.cs
+C:\Xamarin\ListView\src\exercise2\final\FlagData\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\ListView\src\exercise2\final\FlagData\obj\Debug\netstandard2.0\FlagData.dll
+C:\Xamarin\ListView\src\exercise2\final\FlagData\obj\Debug\netstandard2.0\FlagData.pdb

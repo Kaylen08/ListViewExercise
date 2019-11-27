@@ -1,0 +1,15 @@
+C:\Xamarin\ListView\src\exercise1\final\FlagFacts\bin\Debug\netstandard2.0\FlagFacts.deps.json
+C:\Xamarin\ListView\src\exercise1\final\FlagFacts\bin\Debug\netstandard2.0\FlagFacts.dll
+C:\Xamarin\ListView\src\exercise1\final\FlagFacts\bin\Debug\netstandard2.0\FlagFacts.pdb
+C:\Xamarin\ListView\src\exercise1\final\FlagFacts\bin\Debug\netstandard2.0\FlagData.dll
+C:\Xamarin\ListView\src\exercise1\final\FlagFacts\bin\Debug\netstandard2.0\FlagData.pdb
+C:\Xamarin\ListView\src\exercise1\final\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.csprojAssemblyReference.cache
+C:\Xamarin\ListView\src\exercise1\final\FlagFacts\obj\Debug\netstandard2.0\AllFlagsPage.xaml.g.cs
+C:\Xamarin\ListView\src\exercise1\final\FlagFacts\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\ListView\src\exercise1\final\FlagFacts\obj\Debug\netstandard2.0\FlagDetailsPage.xaml.g.cs
+C:\Xamarin\ListView\src\exercise1\final\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.AssemblyInfoInputs.cache
+C:\Xamarin\ListView\src\exercise1\final\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.AssemblyInfo.cs
+C:\Xamarin\ListView\src\exercise1\final\FlagFacts\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\ListView\src\exercise1\final\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.csproj.CopyComplete
+C:\Xamarin\ListView\src\exercise1\final\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.dll
+C:\Xamarin\ListView\src\exercise1\final\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.pdb
